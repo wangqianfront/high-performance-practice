@@ -4,6 +4,8 @@ including Front-end, Back-end, Server...etc
 
 ### JAVA
 
+basic: synchronized关键字、volatile实现原理到ConcurrentHashMap、ConcurrentLinkedQueue源码分析，阻塞队列和Fork/Join框架
+
   1. NIO (异步非阻塞IO)  
     [netty](http://netty.io/)
     Netty4 + Thrift > 8 * Java序列化+BIO（同步阻塞IO）
